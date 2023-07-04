@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/joyrocks93](https://github.com/joyrocks93)
+- 👨‍💻 All of my projects are available at [https://joyrocks93.github.io/Portfolio/](https://joyrocks93.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN,Java**
 
