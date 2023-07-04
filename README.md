@@ -1,4 +1,3 @@
-[![MasterHead]
 <h1 align="center">Hi 👋, I'm Shuvodeep Talukdar</h1>
 <h3 align="center">A passionate frontend and java developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -9,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://joyrocks93.github.io/Portfolio/](https://joyrocks93.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://github.com/joyrocks93](https://github.com/joyrocks93)
 
 - 💬 Ask me about **MERN,Java**
 
