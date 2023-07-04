@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👨‍💻 All of my projects are available at [https://joyrocks93.github.io/Portfolio/](https://joyrocks93.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Here](https://joyrocks93.github.io/Portfolio/)
 
 - 💬 Ask me about **MERN,Java**
 
 - 📫 How to reach me **iamstjt93@gmail.com**
 
-- 📄 Know about my experiences [here](https://docs.google.com/document/d/1KL03G4IpNxMiMlkCNq-ZGN2rllihKsfRQCcyccAELfk/edit?usp=sharing)
+- 📄 Know about my experiences [Here](https://docs.google.com/document/d/1KL03G4IpNxMiMlkCNq-ZGN2rllihKsfRQCcyccAELfk/edit?usp=sharing)
 
 - ⚡ Fun fact **Java is cooler than Python.**
 
