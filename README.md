@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **iamstjt93@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1KL03G4IpNxMiMlkCNq-ZGN2rllihKsfRQCcyccAELfk/edit?usp=sharing](https://docs.google.com/document/d/1KL03G4IpNxMiMlkCNq-ZGN2rllihKsfRQCcyccAELfk/edit?usp=sharing)
+- 📄 Know about my experiences [here](https://docs.google.com/document/d/1KL03G4IpNxMiMlkCNq-ZGN2rllihKsfRQCcyccAELfk/edit?usp=sharing)
 
 - ⚡ Fun fact **Java is cooler than Python.**
 
