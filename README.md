@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shuvodeep Talukdar</h1>
 <h3 align="center">A passionate frontend and java developer from India</h3>
-<img align="right" alt="Coding" height="500px"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" height="400px"  src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joyrocks93&label=Profile%20views&color=0e75b6&style=flat" alt="joyrocks93" /> </p>
 
